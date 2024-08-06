@@ -42,7 +42,7 @@ I am eager to leverage my diverse expertise to explore new ideas, tackle complex
 ### 📫 How to reach me
 - **Email:** ahmed.hameed.89@gmail.com
 - **LinkedIn:** [Ahmed Abdel Hameed](https://www.linkedin.com/in/ahmed-abdel-hameed/)
-- **Company:** [Nameless](https://nameless-eg.com)
+
 
 ### 😄 Pronouns
 - He/Him
@@ -128,4 +128,4 @@ The American University in Cairo
 
 - **Email:** ahmed.hameed.89@gmail.com
 - **LinkedIn:** [Ahmed Abdel Hameed](https://www.linkedin.com/in/ahmed-abdel-hameed/)
-- **Company:** [Nameless](https://nameless-eg.com)
+
