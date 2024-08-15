@@ -55,7 +55,7 @@ I am eager to leverage my diverse expertise to explore new ideas, tackle complex
 ### Professional Experience
 
 **Senior HPC Engineer**  
-[Applied Innovation Center (AIC) - MCIT](https://www.linkedin.com/company/aic-egypt/)  
+[Applied Innovation Center (AIC) - MCIT]([https://www.linkedin.com/company/aic-egypt/](https://www.linkedin.com/company/applied-innovation-center-aic-mcit)  
 *September 2020 - Present*
 
 - Promote the use of emerging technologies to tackle national challenges
